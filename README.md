@@ -3,7 +3,7 @@
 
 The Spotify User Behavior Dashboard is an interactive Power BI analytics project designed to analyze user listening behavior, content performance, and consumption trends using Spotify listening data.
 
-The dashboard combines strong data modeling, advanced DAX, and modern UI design inspired by Spotify’s dark theme to deliver clear, actionable insights.
+The dashboard combines strong data modeling, advanced DAX, and modern UI design inspired by Spotify’s dark theme to deliver clear, actionable insights. ![Visualization](Dashboard/Dashboard.png)
 
 ## 🎯 Business Goals
 
